@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle"
+    name="card_overlay_brand">
+    <gradient
+      android:angle="180"
+      android:endColor="e8000000"
+      android:startColor="e80000ff"
+      android:type="Linear"/>
+</shape>

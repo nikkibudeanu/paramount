@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<resources>
+		<color name="text_primary">#ffffff</color>
+		<color name="text_secondary">#ffffffcc</color>
+		<color name="text_tertiary">#ffffffa6</color>
+		<color name="text_disabled">#ffffff73</color>
+		<color name="text_selected">#ffffff</color>
+		<color name="text_unselected">#ffffffa6</color>
+		<color name="text_alert">#e10500</color>
+		<color name="text_link">#ffffff</color>
+		<color name="surface_unselected">#ffffff14</color>
+		<color name="utility_status_graphic_time">#2a2b2b</color>
+		<color name="surface_selected">#ffffff</color>
+		<color name="surface_darken">#10101099</color>
+		<color name="utility_border_primary">#ffffff80</color>
+		<color name="utility_icon_primary">#ffffff</color>
+		<color name="utility_icon_secondary">#ffffffa6</color>
+		<color name="utility_status_graphic_alert">#e10500</color>
+		<color name="brand_primary">#ffffff</color>
+		<color name="brand_secondary">#ffffffa6</color>
+		<color name="brand_tertiary">#0d55d9</color>
+		<color name="button_background">#ffffff14</color>
+		<color name="button_background_selected">#ffffff</color>
+		<color name="button_text">#ffffffa6</color>
+		<color name="button_text_selected">#101010</color>
+		<color name="surface_background">#000000</color>
+		<color name="brand_paramount">#0064ff</color>
+	</resources>

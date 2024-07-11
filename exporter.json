@@ -1,0 +1,15 @@
+{
+    "id": "cbs.exporter-ott",
+    "name": "OTT Exporter",
+    "description": "Token Exporter for Android, Apple, CTV and Roku",
+    "author": "Andrew Still",
+    "organization": "CBS",
+    "version": "1.0.0",
+    "usesBrands": true,
+    "usesThemes": true,
+    "executable": "/dist/build.js",
+    "engine": "latest",
+    "tags": [
+        "[ANYTHING_YOU_WANT, like 'Tokens', 'Assets' etc.]"
+    ]
+}
