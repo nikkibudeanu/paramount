@@ -1,0 +1,26 @@
+// Generated Generic Tokens (Other) from Supernova. Do not edit manually.
+$regular-italic: Regular Italicpx !default;
+$medium-italic: Medium Italicpx !default;
+$black-italic: Black Italicpx !default;
+$bold-italic: Bold Italicpx !default;
+$regular: Regularpx !default;
+$medium: Mediumpx !default;
+$black: Blackpx !default;
+$bold: Boldpx !default;
+$sf-pro-display: SF Pro Displaypx !default;
+$sf-pro-text: SF Pro Textpx !default;
+$metropolis: Metropolispx !default;
+$roboto: Robotopx !default;
+$rift: Riftpx !default;
+
+$fontweights: (
+    regular-italic: $fontweight-regular-italic,
+    medium-italic: $fontweight-medium-italic,
+    black-italic: $fontweight-black-italic,
+    bold-italic: $fontweight-bold-italic,
+) !default;
+
+$familys: (
+    sf-pro-display: $family-sf-pro-display,
+    sf-pro-text: $family-sf-pro-text,
+) !default;

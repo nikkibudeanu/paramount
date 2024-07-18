@@ -1,0 +1,135 @@
+// Generated Typography from Supernova. Do not edit manually.
+$bold: (
+    mobile: (
+        font-family: "'SF Pro Text', sans-serif",
+        font-size: 0.625rem,
+        font-style: normal,
+        font-weight: NaN,
+        line-height: 0.12,
+    ),
+) !default;
+
+$h1: (
+    mobile: (
+        font-family: "'Rift', sans-serif",
+        font-size: 2rem,
+        font-style: normal,
+        font-weight: NaN,
+        line-height: 0.36,
+    ),
+) !default;
+
+$h2: (
+    mobile: (
+        font-family: "'Rift', sans-serif",
+        font-size: 1.75rem,
+        font-style: normal,
+        font-weight: NaN,
+        line-height: 0.32,
+    ),
+) !default;
+
+$h3: (
+    mobile: (
+        font-family: "'Rift', sans-serif",
+        font-size: 1.25rem,
+        font-style: normal,
+        font-weight: NaN,
+        line-height: 0.28,
+    ),
+) !default;
+
+$h4: (
+    mobile: (
+        font-family: "'Rift', sans-serif",
+        font-size: 1rem,
+        font-style: normal,
+        font-weight: NaN,
+        line-height: 0.2,
+    ),
+) !default;
+
+$huge: (
+    mobile: (
+        font-family: "'Rift', sans-serif",
+        font-size: 3rem,
+        font-style: normal,
+        font-weight: NaN,
+        line-height: 0.52,
+    ),
+) !default;
+
+$medium: (
+    mobile: (
+        font-family: "'SF Pro Text', sans-serif",
+        font-size: 0.625rem,
+        font-style: normal,
+        font-weight: NaN,
+        line-height: 0.12,
+    ),
+) !default;
+
+$mega: (
+    mobile: (
+        font-family: "'Rift', sans-serif",
+        font-size: 10rem,
+        font-style: normal,
+        font-weight: NaN,
+        line-height: 1.68,
+    ),
+) !default;
+
+$regular: (
+    mobile: (
+        font-family: "'SF Pro Text', sans-serif",
+        font-size: 0.625rem,
+        font-style: normal,
+        font-weight: NaN,
+        line-height: 0.12,
+    ),
+) !default;
+
+$token-#1: (
+    mobile: (
+        font-family: "'Inter', sans-serif",
+        font-size: 0.875rem,
+        font-style: normal,
+        font-weight: NaN,
+        line-height: 0.2,
+    ),
+) !default;
+
+$token-#2: (
+    mobile: (
+        font-family: "'Inter', sans-serif",
+        font-size: 0.875rem,
+        font-style: normal,
+        font-weight: NaN,
+        line-height: 0.2,
+    ),
+) !default;
+
+$xhuge: (
+    mobile: (
+        font-family: "'Rift', sans-serif",
+        font-size: 5rem,
+        font-style: normal,
+        font-weight: NaN,
+        line-height: 0.88,
+    ),
+) !default;
+
+$styles: (
+    bold: $bold,
+    h1: $h1,
+    h2: $h2,
+    h3: $h3,
+    h4: $h4,
+    huge: $huge,
+    medium: $medium,
+    mega: $mega,
+    regular: $regular,
+    token-#1: $token-#1,
+    token-#2: $token-#2,
+    xhuge: $xhuge,
+) !default;
