@@ -7,4 +7,13 @@
   --shadowUsageElevation5: 0px 6px 20px 0px #191919;
   --shadowUsageElevation6: 0px 8px 24px 0px #191919;
   --shadowUsageElevationNone: 0px 0px 0px 0px #191919;
+  --shadowComponentShadowBadgeShadow: 0px 2px 2px -1px #000000, 0px 2px 3px -1px #000000;
+  --shadowComponentShadowPageControlShadow: 0px 2px 2px -1px #000000, 0px 2px 3px -1px #000000;
+  --shadowComponentShadowToggleKnobShadow: 0px 1px 1px 0px #000000;
+  --shadowSystemShadow2dp: 0px 1px 1px 0px #000000;
+  --shadowSystemShadow4dp: 0px 2px 2px -1px #000000, 0px 2px 3px -1px #000000;
+  --shadowSystemShadow8dp: 0px 2px 4px -1px #000000, 0px 4px 6px -1px #000000;
+  --shadowSystemShadow12dp: 0px 4px 6px -2px #000000, 0px 10px 15px -3px #000000;
+  --shadowSystemShadow16dp: 0px 10px 10px -5px #000000, 0px 20px 25px -5px #000000;
+  --shadowSystemShadow24dp: 0px 25px 50px -12px #000000;
 }
