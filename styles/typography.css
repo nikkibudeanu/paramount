@@ -136,4 +136,5 @@ Feature: Transmissions */
   --typographyComponentSearchBarMdText: "600" 16px/20px "Pluto TV Sans V10";
   --typographyComponentSearchBarLgText: "600" 22px/24px "Pluto TV Sans V10";
   --typographyComponentSearchBarXlgText: "600" 28px/36px "Pluto TV Sans V10";
+  --typographyComponentGlobalNavVerticalMenuItem: "600" 28px/36px "Pluto TV Sans V10";
 }
